@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import logo from './logo.svg';
 import {
     AppBar, IconButton, Toolbar, Typography,
-} from "@material-ui/core";
+} from "@mui/material";
 import {Link} from "react-router-dom";
 import img1 from './1.jpg'
 import img2 from './2.jpg'

@@ -2,7 +2,7 @@ import React from "react";
 import logo from './logo.svg';
 import {
     AppBar, IconButton, Toolbar, Typography,
-} from "@material-ui/core";
+} from "@mui/material";
 import {Button, Grid, Stack} from "@mui/material";
 import './index.css'
 function Navbar() {
